@@ -7,6 +7,7 @@
 | 1 | [Mozart](#mozart), [Mussorgsky](#mussorgsky) | [YouTube Playlist](https://www.youtube.com/playlist?list=PL02hsFKY3Koh5oTSjLEtDsO-6biG6bzYp) |
 | 2 | [Beethoven](#beethoven), [Tchaikovsky](#tchaikovsky) | [YouTube Playlist](https://www.youtube.com/playlist?list=PL02hsFKY3KohEUQvkq3n2A1XwTm-_8wsh) |
 | 3 | [Bach](#bach), [Debussy](#debussy) | [YouTube Playlist](https://www.youtube.com/playlist?list=PL02hsFKY3KojzGqsZ5RsCQJ9UI9kTPBxS) |
+| 4 | [Chopin](#chopin), [John Cage](#cage) | [YouTube Playlist](https://www.youtube.com/playlist?list=PL02hsFKY3KohANuJdHghxmbOSaLOx4a-p) |
 
 ### Mozart
 
@@ -61,3 +62,25 @@ Nutcracker (the ballet) is performed every year during Christmas in HK
 - Children's Corner, L. 113 - I: Doctor Gradus Ad Parnassum
 - The Girl with the Flaxen Hair, L. 33
 - Arabesques No. 1, from Deux Arabesques L. 66
+
+### Chopin
+
+(1810-1849) Polish, Romantic period
+
+- Nocturne in E Flat Major, Op. 9 No. 2
+- Prelude Op. 28 No. 4 in E Minor, Largo
+- Fantasie Impromptu, Op. 66
+- Polonise Op. 53 ("Heroic")
+- Etude Op. 25 No. 11 "Winter Wind"
+- Ballade No. 1 in G minor, Op. 23
+- Etude Op. 10 No. 3
+- Prelude Op. 28 No. 15 "Raindrop"
+- Minute Waltz, Op. 64 No. 1
+- Scherzo No. 2 in B Flat Minor, Op. 31
+
+### Cage
+
+(1912-1992) American, 20th Century/Modern/Contemporary
+
+- Sonata V for Prepared Piano
+- 4'33"
