@@ -8,6 +8,7 @@
 | 2 | [Beethoven](#beethoven), [Tchaikovsky](#tchaikovsky) | [YouTube Playlist](https://www.youtube.com/playlist?list=PL02hsFKY3KohEUQvkq3n2A1XwTm-_8wsh) |
 | 3 | [Bach](#bach), [Debussy](#debussy) | [YouTube Playlist](https://www.youtube.com/playlist?list=PL02hsFKY3KojzGqsZ5RsCQJ9UI9kTPBxS) |
 | 4 | [Chopin](#chopin), [John Cage](#cage) | [YouTube Playlist](https://www.youtube.com/playlist?list=PL02hsFKY3KohANuJdHghxmbOSaLOx4a-p) |
+| 5 | [Jazz/Dance](#jazzdance), [Kapustin](#kapustin), [Gershwin](#gershwin) | [YouTube Playlist](https://www.youtube.com/playlist?list=PL02hsFKY3KoiOp27HdbL82mAhGSbeYKjS) |
 
 ### Mozart
 
@@ -84,3 +85,45 @@ Nutcracker (the ballet) is performed every year during Christmas in HK
 
 - Sonata V for Prepared Piano
 - 4'33"
+
+### Jazz/Dance
+
+#### Ragtime
+
+Scott Joplin (1868-1917): African-American composer and pianist. Dubbed the "King of Ragtime"
+
+- Joplin: The Entertainer
+- Joplin: Maple Leaf Rag
+
+#### Tango
+
+Astor Piazolla (1921-1992): Argentine tango composer, bandoneon player, and arranger
+
+- Piazolla: Libertango
+
+Gerardo Matos Rodríguez (1897-1948): Uruguayan
+
+- Rodríguez: La Cumparsita
+
+#### Blues
+
+- Herbie Hancock: Blue Otani
+- Leroy Carr: How Long Blues
+- (Boogie Woogie) The Andrews Sisters: Boogie Woogie Bugle Boy
+
+#### Big Band
+
+- Cab Calloway & Nicholas Brothers: Jumpin' Jive
+- Paul Desmond & Dave Brubeck: Take 5 (Big Band arrangement)
+
+### Kapustin
+
+Nikolai Girshevich Kapustin (1937-2020), Soviet
+
+- Kapustin: No. 1 (Prelude) from Eight Concert Etudes Op. 40
+
+### Gershwin
+
+George Gershwin (1898-1937), American
+
+- Gershwin: Rhapsody in Blue
