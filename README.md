@@ -9,6 +9,7 @@
 | 3 | [Bach](#bach), [Debussy](#debussy) | [YouTube Playlist](https://www.youtube.com/playlist?list=PL02hsFKY3KojzGqsZ5RsCQJ9UI9kTPBxS) |
 | 4 | [Chopin](#chopin), [John Cage](#cage) | [YouTube Playlist](https://www.youtube.com/playlist?list=PL02hsFKY3KohANuJdHghxmbOSaLOx4a-p) |
 | 5 | [Jazz/Dance](#jazzdance), [Kapustin](#kapustin), [Gershwin](#gershwin) | [YouTube Playlist](https://www.youtube.com/playlist?list=PL02hsFKY3KoiOp27HdbL82mAhGSbeYKjS) |
+| 8 | [Misc 1](#misc-1) | [YouTube Playlist](https://www.youtube.com/playlist?list=PL02hsFKY3KogG_sZ63oDH5VrCeqgoPMuw) |
 
 ### Mozart
 
@@ -127,3 +128,13 @@ Nikolai Girshevich Kapustin (1937-2020), Soviet
 George Gershwin (1898-1937), American
 
 - Gershwin: Rhapsody in Blue
+
+### Misc 1
+
+- [Debussy - Golliwog's Cakewalk (from Children's Corner, L. 113)](https://www.youtube.com/watch?v=p5Rhv1E3tEM)
+- [Beethoven - Violin Sonata No. 5 in F major, Op. 24, 1st movement](https://www.youtube.com/watch?v=AcofgtlKdj4)
+- [Tchaikovsky - Swan Lake (Swan Theme)](https://www.youtube.com/watch?v=9cNQFB0TDfY)
+- [Mozart - 12 Variations "Ah, vous dirai-je, maman" KV 265](https://www.youtube.com/watch?v=NO-ecxHEPqI)
+- [J.S.Bach - Cantata BWV147: Herz und Mund und Tat und Leben (Jesu, Joy of Man's Desiring)](https://www.youtube.com/watch?v=5UgEk_g_QbA)
+- [Mozart - Queen of the Night (Aria from The Magic Flute)](https://www.youtube.com/watch?v=2JS5FfBnaMM)
+- [Haydn - Symphony No. 94 in G major "Surprise", 2nd movement](https://www.youtube.com/watch?v=mNwMXj0Y1_Y)
