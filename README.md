@@ -10,6 +10,7 @@
 | 4 | [Chopin](#chopin), [John Cage](#cage) | [YouTube Playlist](https://www.youtube.com/playlist?list=PL02hsFKY3KohANuJdHghxmbOSaLOx4a-p) |
 | 5 | [Jazz/Dance](#jazzdance), [Kapustin](#kapustin), [Gershwin](#gershwin) | [YouTube Playlist](https://www.youtube.com/playlist?list=PL02hsFKY3KoiOp27HdbL82mAhGSbeYKjS) |
 | 8 | [Misc 1](#misc-1) | [YouTube Playlist](https://www.youtube.com/playlist?list=PL02hsFKY3KogG_sZ63oDH5VrCeqgoPMuw) |
+| 9 | [Dvorak](#dvorak) | [YouTube Playlist](https://www.youtube.com/playlist?list=PL02hsFKY3KojeR_dHoKzFF9c4u8QK52Pd) |
 
 ### Mozart
 
@@ -138,3 +139,12 @@ George Gershwin (1898-1937), American
 - [J.S.Bach - Cantata BWV147: Herz und Mund und Tat und Leben (Jesu, Joy of Man's Desiring)](https://www.youtube.com/watch?v=5UgEk_g_QbA)
 - [Mozart - Queen of the Night (Aria from The Magic Flute)](https://www.youtube.com/watch?v=2JS5FfBnaMM)
 - [Haydn - Symphony No. 94 in G major "Surprise", 2nd movement](https://www.youtube.com/watch?v=mNwMXj0Y1_Y)
+
+### Dvorak
+
+(1841-1904) Czech, Romantic (Folk)
+
+- [8 Slavonic Dances, Op. 46 - No. 8 in G minor](https://www.youtube.com/watch?v=WIywT8fKVZA)
+- [8 Slavonic Dances, Op. 72 - No. 2 in E minor](https://www.youtube.com/watch?v=0XnUufuAOIc)
+- [Symphony No. 9 (From the New World) - 2nd movement](https://www.youtube.com/watch?v=rCxErKvSMTY)
+- [Symphony No. 9 (From the New World) - 4th movement](https://www.youtube.com/watch?v=89jOPAGJq-M)
