@@ -11,6 +11,7 @@
 | 5 | [Jazz/Dance](#jazzdance), [Kapustin](#kapustin), [Gershwin](#gershwin) | [YouTube Playlist](https://www.youtube.com/playlist?list=PL02hsFKY3KoiOp27HdbL82mAhGSbeYKjS) |
 | 8 | [Misc 1](#misc-1) | [YouTube Playlist](https://www.youtube.com/playlist?list=PL02hsFKY3KogG_sZ63oDH5VrCeqgoPMuw) |
 | 9 | [Dvorak](#dvorak) | [YouTube Playlist](https://www.youtube.com/playlist?list=PL02hsFKY3KojeR_dHoKzFF9c4u8QK52Pd) |
+| 10 | [Strings](#strings) | [YouTube Playlist](https://youtube.com/playlist?list=PL02hsFKY3KojnoVBSD2IIlL_TfiVBy7OC) |
 
 ### Mozart
 
@@ -148,3 +149,14 @@ George Gershwin (1898-1937), American
 - [8 Slavonic Dances, Op. 72 - No. 2 in E minor](https://www.youtube.com/watch?v=0XnUufuAOIc)
 - [Symphony No. 9 (From the New World) - 2nd movement](https://www.youtube.com/watch?v=rCxErKvSMTY)
 - [Symphony No. 9 (From the New World) - 4th movement](https://www.youtube.com/watch?v=89jOPAGJq-M)
+
+### Strings
+
+- Guitar (Spanish music)
+  [Granados - Spanish Dance No. 5, arranged for Guitar](https://www.youtube.com/watch?v=kZ91y6frqcw)
+- Double bass in a typical Jazz Trio (Piano + Double Bass + Drums)
+  [ABBA - Dancing Queen, arranged for Jazz Trio](https://www.youtube.com/watch?v=ApgeBRzX67o)
+- Harp
+  [M. Glinka - Variations on a theme of Mozart](https://www.youtube.com/watch?v=6oIskg5V1hU)
+- Strings Quartet (2 Violins + Viola + Cello)
+  [Mozart - String Quartet No. 19, "Dissonance"](https://www.youtube.com/watch?v=f3oK4XVMARs)
